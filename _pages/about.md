@@ -22,6 +22,13 @@ Lei  Chen is an Associate Professor of Physical Oceanography based in Qingdao, C
 At her university in Qingdao, Lei teaches courses on physical oceanography and supervises graduate students. She has published numerous articles in peer-reviewed physical oceanography journals and actively collaborates with researchers worldwide.
 
 Beyond research and teaching, Lei is involved in the oceanography community through participation in international conferences and editorial service.
+
+# 🔥 News
+
+######Preliminary version – Under construction
+
+
+
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Lei finally know how to set her own academic homepage!
 
