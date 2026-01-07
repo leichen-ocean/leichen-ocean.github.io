@@ -48,8 +48,11 @@ Beyond research and teaching, Lei is involved in the oceanography community thro
 # 📖 Educations
 
 Ph.D., Ocean University of China, P. R. China, 2020 (Physical Oceanography)
+
 Joint-Supervision Ph.D., Woods Hole Oceanographic Institution, U.S., 2017-2019 (Physical Oceanography)
+
 M.S. (Transferred to Ph.D.), Ocean University of China, P. R. China, 2016 (Physical Oceanography)
+
 B.S., Ocean University of China, P. R. China, 2014 (Ocean Science) 
 
 
