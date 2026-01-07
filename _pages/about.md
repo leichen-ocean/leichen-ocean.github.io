@@ -23,9 +23,9 @@ At her university in Qingdao, Lei teaches courses on physical oceanography and s
 
 Beyond research and teaching, Lei is involved in the oceanography community through participation in international conferences and editorial service.
 
-# 🔥 News
 
-######Preliminary version – Under construction
+
+###### Preliminary version – Under construction
 
 
 
