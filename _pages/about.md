@@ -30,8 +30,7 @@ Beyond research and teaching, Lei is involved in the oceanography community thro
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Topographic effects on seasonal variations of the North Atlantic deep water transport]
-(https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024GL113883)
+[Topographic effects on seasonal variations of the North Atlantic deep water transport](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024GL113883)
 
 **Lei Chen**, Jiayan Yang, Xiaopei Lin, Lixin Wu
 
@@ -40,7 +39,8 @@ Beyond research and teaching, Lei is involved in the oceanography community thro
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lei Chen*, Jiayan Yang, Xiaopei Lin, Lixin Wu (2025). Topographic effects on seasonal variations of the North Atlantic deep water transport. Geophysical Research Letters, 52(3), e2024GL113883.](https://github.com),  52(3), e2024GL113883
+, **GRL 2025**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
