@@ -25,10 +25,18 @@ Beyond research and teaching, Lei is involved in the oceanography community thro
 
 
 
-
-<span style="border: 2px solid #007BFF; padding: 20px 60px; border-radius: 4px;">
-Preliminary version – Under construction
+<span style="display:block; 
+             border: 6px solid #007BFF; 
+             padding: 20px 60px; 
+             border-radius: 8px; 
+             background-color: #f0f8ff; 
+             color: #007BFF; 
+             font-weight: bold; 
+             text-align: center; 
+             margin: 20px 0;">
+  Preliminary version – Under construction
 </span>
+
 
 
 
