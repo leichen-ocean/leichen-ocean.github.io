@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Feng  Chen is a Professor of Economics based in Tokyo, Japan. He holds a Ph.D. in economics and has extensive experience in teaching and research. His work focuses on economic theory, econometrics, and public policy.
+Lei  Chen is an Associate Professor of Physical Oceanography based in Qingdao, China. She holds a Ph.D. in physical oeanography and has extensive experience in teaching and research. Her work focuses on large-scale ocean dynamics.
 
-At his university in Tokyo, Feng teaches courses on microeconomics and public policy and supervises graduate students. He has published numerous articles in peer-reviewed economics journals and actively collaborates with researchers worldwide.
+At her university in Qingdao, Lei teaches courses on physical oceanogarphy and supervises graduate students. She has published numerous articles in peer-reviewed physical oceanography journals and actively collaborates with researchers worldwide.
 
-Beyond research and teaching, Feng is involved in the economics community through participation in international conferences and editorial service.
+Beyond research and teaching, Lei is involved in the oceanography community through participation in international conferences and editorial service.
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
