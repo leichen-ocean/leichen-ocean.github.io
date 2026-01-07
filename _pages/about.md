@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lei  Chen is an Associate Professor of Physical Oceanography based in Qingdao, China. She holds a Ph.D. in physical oeanography and has extensive experience in teaching and research. Her work focuses on large-scale ocean dynamics.
+Lei  Chen is an Associate Professor of Physical Oceanography based in Qingdao, China. She holds a Ph.D. in physical oceanography and has extensive experience in teaching and research. Her work focuses on large-scale ocean dynamics.
 
-At her university in Qingdao, Lei teaches courses on physical oceanogarphy and supervises graduate students. She has published numerous articles in peer-reviewed physical oceanography journals and actively collaborates with researchers worldwide.
+At her university in Qingdao, Lei teaches courses on physical oceanography and supervises graduate students. She has published numerous articles in peer-reviewed physical oceanography journals and actively collaborates with researchers worldwide.
 
 Beyond research and teaching, Lei is involved in the oceanography community through participation in international conferences and editorial service.
 # 🔥 News
